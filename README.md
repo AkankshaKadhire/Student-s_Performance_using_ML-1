@@ -5,5 +5,7 @@ Studied and Analyzed the Garment worker productivity dataset to applying ML mode
 Performed various Exploratory Data Analysis to understand the data and compare the variables.
 Experimented with different Machine Learning algorithms, Linear Regression, Neural Networks, Bagging, and Boosting.
 Compared the results to recommend the best Regression model.
+
+
 COLAB NOTEBOOK LINK:https://colab.research.google.com/drive/1rzU_iMaXmGtXnWSvsj5zsH5JncQoB4bn#scrollTo=Ubiie_FiFmzf
 PROJECT PRESENTATION LINK:https://drive.google.com/file/d/19AQPe-PHk4Mo9ZhGwyLwGuw9r38FdvQR/view?usp=share_link
