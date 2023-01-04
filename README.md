@@ -7,6 +7,6 @@ Experimented with different Machine Learning algorithms, Linear Regression, Neur
 Compared the results to recommend the best Regression model.
 
 
-COLAB NOTEBOOK LINK:https://colab.research.google.com/drive/1rzU_iMaXmGtXnWSvsj5zsH5JncQoB4bn#scrollTo=Ubiie_FiFmzf
+COLAB NOTEBOOK LINK: https://github.com/AkankshaKadhire/Student-s_Performance_Using_ML/blob/main/Student's_performance_using_ML.ipynb
 
-PROJECT PRESENTATION LINK:https://drive.google.com/file/d/19AQPe-PHk4Mo9ZhGwyLwGuw9r38FdvQR/view?usp=share_link
+PROJECT PRESENTATION LINK:https://drive.google.com/file/d/1U00V9nV8MnGZYmkTLM6hIviDR8eXdOq2/view?usp=share_link
